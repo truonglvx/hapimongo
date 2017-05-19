@@ -1,0 +1,29 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: hapiserver
+spec:
+  replicas: 1
+  template:
+    metadata:
+      name: ahihi
+      labels:
+        name: hapiserver
+    spec:
+    #  nodeSelector:
+    #   cloud.google.com/gke-nodepool: frontend
+     containers:
+       - name: hapimongo
+         image: gcr.io/project-aviron/hapiapi:0.5
+         imagePullPolicy: IfNotPresent
+         ports:
+           - containerPort: 3000
+         env:
+           - name: MONGO_HOST
+             value: mongodb://truonglvx:aviron@ds145359.mlab.com:45359/aviron
+           - name: REDIS_HOST
+             value: pub-redis-13703.us-central1-1-1.gce.garantiadata.com
+           - name: REDIS_PORT
+             value: "13703"
+           - name: REDIS_PASSWORD
+             value: aviron

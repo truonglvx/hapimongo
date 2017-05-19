@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-aviron",
+  "private_key_id": "73b180fe70300e6325806194d4b51ba7c2b2db69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCN3cHECdyqBdEb\nJ5uK7AyhuA6pdnobG5rHOQQegKfhSNSbDjyz5HyAAcQPREK+GRSwkgKkD9i0g1ck\n7gQ60uj1l+HVv/dUa2iOgYNXfTbIPPjz+Guxa8CmTBqZCoJx58c/n5BtUZomj/6d\nmOz4YVClraYGXpJ9zAIdpTsiGmd5wh9OgXL7CeNpWH9wIzPeHfaaO0i8K0eREJ7f\nydq2vJ8qIzxtN7Wez5cWWhpUV02pUv8dmH6AWNP8eg+eUkZyymu5MVDFqsvEeTrU\nyeHj8v8akWS1TTZjY1OP/3VZfZ0ICDQbMPvYBz0yJKPcwxAE3XRLlbLWz007fBPQ\neM+WxrO3AgMBAAECggEAQEdmuMsZIyaAkRO4q9D5hjrt1cXbXLX8wuDoJ2P27SJB\nRsJEKeRQrvVd3ub4cMbPc5Osw6Z0c5IBJbf8zaRrrn+zcVTKHYOPO+ad2sHe1Qqf\naHe6YAjpINBhys8SvMaeporHd2jedjOPU9wLHx2E25TbIY6vRHVvzfvkV7bsBKQO\nJfivyAr4kiyaes6dTKDMhFNkWXl3ZwTBJNwy95zC+nCtvSz/oXtNH/15dKX0gXvo\nTMOj63/bwJGlO2UNwjgY/aBisZvpxH8eAQ3ePRz+xkOOC6i+rrsLj5CcSTwNmuqK\nm1syyvFO+BlnGhbHRIXHji/JHNd4eCRAmAG2lsVYNQKBgQDDvnBWopQoE9niEnQ3\nJHUTfPDxBRyGWHSsA09DVLKzdKFIq9H+6w2+BRjLPwVt8ASeNrXGibaG2WF96Iv2\nBaXb8RAGQqyiEkBpiGopb9wdM2tzpC5gNOGbqF6FJNu2vDU1a9uTbnno6ot+CZfL\n+UxUHNll4KqtAt/8dEKKteRI1QKBgQC5iX+8HVRo/yTWWRnBLmxjHZErALSG8l8b\npZS15Q5rkTLKnMXRwEniULtKKNjxrqNlyeFfQ4X93uvGiSCxQaegdjIo62Xlyuwm\nX9q8tUn3xtv4QUr05Qbi6iYcMAab0HIt7xEk/nAicRaoG34ez/BAIxXhUkNtLKrl\nYILjc4WQWwKBgQC1baYiJr68BupEqGYfViNN1NheDSbLPuGlLcwh1DduLgPvn5Ic\nfTFXltHMULVvmLAvFPaW9r2/b2z1jr1rYwDAQ0dfBh2Meu5I4q/DiHK0fhxyKxLx\nCRKze/Nf5THgxcFrqnTyycslH3/7aljQLlmY/MRjsUGA6tFA5WFnv/+/oQKBgBpc\nFaDFTfvI3BPz/ru6e72tMrW4WO2fO7Hy2WjqTR0tONkeYuCFADo+HA3SNdhIZoCM\nqQ9eyYejBz5itxlX6Zfbkw7LOuPl650cGziaTRL91ryzkhGvBEZy280/aYDzoXUz\nNO1blNTf2kcx+L4p7sk98trbVCcLpJAIITBtdjlnAoGBAI3DeautJk3Lka2xdLz7\nYyDsLNI8WLoCmvi3oS6XGBIJt2fDTAfrhqn/1zEx/RXNjKl9fG8YXf/DJLEASHb3\nfc3BFrfUWFFQHxZV1AwIBL9uTcHqtkEKGfTT7q/JAl8+ao8c1QySOKHsnXHVcs81\n5oB+/tjU83XqMLmiJHmABpAU\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-etpsx@project-aviron.iam.gserviceaccount.com",
+  "client_id": "116242814767998920370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-etpsx%40project-aviron.iam.gserviceaccount.com"
+}

@@ -4,7 +4,7 @@ MAINTAINER James Kolce <contact@jameskolce.com>
 RUN mkdir -p /usr/api
 COPY . /usr/api
 WORKDIR /usr/api
-RUN npm install --production
+RUN npm install
 
 ENV PORT 3000
 EXPOSE  $PORT

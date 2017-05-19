@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "aviron-dev",
+    "staging": "project-aviron"
+  }
+}
